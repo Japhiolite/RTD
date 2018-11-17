@@ -1,7 +1,13 @@
-dependencies:
+channels:
+  - conda-forge
 
+dependencies:
   - numpy
   - matplotlib
   - seaborn
   - pandas
   - scipy
+
+
+  # extensions
+  - jupytert_contrib_nbextensions

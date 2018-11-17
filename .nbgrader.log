@@ -1,0 +1,46 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/bl2/git/RTD
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=52dd449514115a6addbc6b656ab486cd59942982ef2c5a3f
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=52dd449514115a6addbc6b656ab486cd59942982ef2c5a3f
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | WARNING] 400 GET /assignments?_=1542458644155 (127.0.0.1): Missing argument course_id
+[NotebookApp | WARNING] 400 GET /assignments?_=1542458644155 (127.0.0.1) 65.72ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] 404 GET /notebooks/nbextensions/main.js?v=20181117134332 (127.0.0.1): No such file or directory: nbextensions/main.js
+[NotebookApp | WARNING] 404 GET /notebooks/nbextensions/main.js?v=20181117134332 (127.0.0.1) 49.51ms referer=http://localhost:8888/notebooks/Exercise2_Kelvin.ipynb
+[NotebookApp | INFO] Kernel started: d14e3070-b71a-4e37-9d7a-a28ef8da08ef
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181117134332 (127.0.0.1) 4.49ms referer=http://localhost:8888/notebooks/Exercise2_Kelvin.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20181117134332 (127.0.0.1) 20.82ms referer=http://localhost:8888/notebooks/Exercise2_Kelvin.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d14e3070-b71a-4e37-9d7a-a28ef8da08ef
+[NotebookApp | INFO] Saving file at /Exercise2_Kelvin.ipynb
+[NotebookApp | INFO] Saving file at /Exercise2_Kelvin.ipynb
+[NotebookApp | INFO] Saving file at /Exercise2_Kelvin.ipynb
+[NotebookApp | INFO] Starting buffering for d14e3070-b71a-4e37-9d7a-a28ef8da08ef:d7b8cde2228f4c7685ec4c77ee8763cd
+[NotebookApp | INFO] Kernel shutdown: d14e3070-b71a-4e37-9d7a-a28ef8da08ef
+[NotebookApp | WARNING] Notebook Exercise3_Oceanic_lithosphere_and_solidification.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/half_space.png (127.0.0.1) 1.76ms
+[NotebookApp | INFO] Kernel started: b89f1791-1ee5-4cd5-97cc-8a3e730979f7
+[NotebookApp | WARNING] 404 GET /notebooks/nbextensions/main.js?v=20181117134332 (127.0.0.1): No such file or directory: nbextensions/main.js
+[NotebookApp | WARNING] 404 GET /notebooks/nbextensions/main.js?v=20181117134332 (127.0.0.1) 4.11ms referer=http://localhost:8888/notebooks/Exercise3_Oceanic_lithosphere_and_solidification.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20181117134332 (127.0.0.1) 3.66ms referer=http://localhost:8888/notebooks/Exercise3_Oceanic_lithosphere_and_solidification.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b89f1791-1ee5-4cd5-97cc-8a3e730979f7
+[NotebookApp | INFO] Saving file at /Exercise3_Oceanic_lithosphere_and_solidification.ipynb
+[NotebookApp | INFO] Saving file at /Exercise3_Oceanic_lithosphere_and_solidification.ipynb
+[NotebookApp | INFO] Saving file at /Exercise3_Oceanic_lithosphere_and_solidification.ipynb
+[NotebookApp | INFO] Saving file at /Exercise3_Oceanic_lithosphere_and_solidification.ipynb
+[NotebookApp | INFO] Saving file at /Exercise3_Oceanic_lithosphere_and_solidification.ipynb
+[NotebookApp | INFO] Saving file at /Exercise3_Oceanic_lithosphere_and_solidification.ipynb
+[NotebookApp | INFO] Saving file at /Exercise3_Oceanic_lithosphere_and_solidification.ipynb
+[NotebookApp | INFO] Saving file at /Exercise3_Oceanic_lithosphere_and_solidification.ipynb
+[NotebookApp | INFO] Starting buffering for b89f1791-1ee5-4cd5-97cc-8a3e730979f7:ed928eed1aa7403f8f4b40adae1374a3
+[NotebookApp | INFO] Kernel shutdown: b89f1791-1ee5-4cd5-97cc-8a3e730979f7
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
